@@ -1,6 +1,6 @@
-### Hi there 👋, welcome to my Github Profile
+# Hi there 👋, welcome to my Github Profile
 
-# 👨‍🎓 About Me
+## 👨‍🎓 About Me
 
 <!--
 **LeoTorresGon/LeoTorresGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
