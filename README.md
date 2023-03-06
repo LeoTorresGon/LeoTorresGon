@@ -3,7 +3,8 @@
 ## 👨‍🎓 About Me
 - Currently learning Kotlin and Java.
 - Looking to work with Backend Development.
-- How to reach me -> [Linkedin](https://www.linkedin.com/in/leonardo-torres-835849250/) & [Whatsapp](https://wa.me/5512983009111)
+- How to reach me -> (https://www.linkedin.com/in/leonardo-torres-835849250/) & [Whatsapp](https://wa.me/5512983009111)
+- 
 
 <!--
 **LeoTorresGon/LeoTorresGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
