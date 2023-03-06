@@ -1,7 +1,9 @@
-## Hi there 👋, welcome to my Github Profile
+# Hi there 👋, welcome to my Github Profile
 
-### 👨‍🎓 About Me
-- Currently learning Kotlin and Java 
+## 👨‍🎓 About Me
+- Currently learning Kotlin and Java.
+- Looking to work with Backend Development.
+- How to reach me -> [Linkedin](https://www.linkedin.com/in/leonardo-torres-835849250/)
 
 <!--
 **LeoTorresGon/LeoTorresGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
