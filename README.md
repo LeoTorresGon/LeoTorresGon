@@ -30,5 +30,5 @@
 
 <hr>
 
-<!-- ![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotorresgon&layout=compact&theme=dark) -->
+<!-- ![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotorresgon&layout=compact&theme=radical) -->
 
