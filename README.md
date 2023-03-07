@@ -1,5 +1,7 @@
 <h1> Hi there 👋, welcome to my Github Profile </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!;I'm+Leo!;Aspiring+to+be+a+back-end+developer!)](https://git.io/typing-svg)
+
 <h2> 👨‍🎓 About Me </h2>
 
 - Taking a technical course in Univap Centro.
@@ -25,4 +27,10 @@
 <h3> Tools </h3>
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<hr>
+
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotorresgon&layout=compact&theme=dark)
+
+</br>
 
