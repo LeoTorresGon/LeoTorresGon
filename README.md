@@ -4,7 +4,7 @@
 
 <h2> 👨‍🎓 About Me </h2>
 
-- Taking a technical course in Univap Centro.
+- Taking a technical course in Univap.
 - Writing my final paper in Java.
 - Currently learning Kotlin and Java.
 - Looking to work with Backend Development.
