@@ -4,9 +4,9 @@
 
 <h2> 👨‍🎓 About Me </h2>
 
-- Taking a technical course in Univap.
-- Writing my final paper in Python.
-- Currently learning Kotlin and Java.
+- Computing technical course in Univap.
+- Final paper writen in C#.
+- Currently studying Computer Science.
 - Looking to work with Backend Development.
 - How to reach me -> <a href = "https://www.linkedin.com/in/leonardo-torres-835849250/"> ![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> & <a href = "https://wa.me/5512983009111"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
 
