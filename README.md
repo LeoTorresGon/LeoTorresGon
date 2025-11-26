@@ -8,7 +8,7 @@
 - Final paper writen in C#.
 - Currently studying Computer Science.
 - Looking to work with Backend Development.
-- How to reach me -> <a href = "https://www.linkedin.com/in/leonardo-torres-835849250/"> ![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> & <a href = "https://wa.me/5512983009111"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
+- How to reach me -> <a href = "https://www.linkedin.com/in/leonardo-torres-gonçalves-e-silva-835849250"> ![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> & <a href = "https://wa.me/5512983009111"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
 
 <h2> :rocket: &nbsp; Skills </h2>
 <h3> Languages </h3>
